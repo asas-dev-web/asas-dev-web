@@ -1,4 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=&width=435&lines=Alysson+Almeida;Dev+Full+Stack)](https://git.io/typing-svg)
+## Seja bem vindo!
+
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Meu+nome+e+Alysson+Almeida+;Sou+Dev+Full+Stack)](https://asasdev.com.br)
+
+ Apaixonado por tecnologia desde o MSDOS, me desviei desse caminho por alguns anos pelas circunstâncias da vida. Mas essa paixão nunca acabou! O que me trouxe de volta à tecnologia.
+
+ Eterno Estudante! pois nunca devemos dizer que sabemos tudo sempre a novos desafios e dificuldades.
+
+ ##
 
  <div>
   <a href="https://github.com/asas-dev-web">
