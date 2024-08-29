@@ -1,14 +1,18 @@
 ## Seja bem vindo!
 
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Meu+nome+e+Alysson+Almeida+;Sou+Dev+Full+Stack)](https://asasdev.com.br)
+ ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Meu+nome+e+Alysson+Almeida+;Sou+Dev+Full+Stack)](https://asasdev.com.br)
 
  Apaixonado por tecnologia desde o MSDOS, me desviei desse caminho por alguns anos pelas circunstâncias da vida. Mas essa paixão nunca acabou! O que me trouxe de volta à tecnologia.
 
  Eterno Estudante! pois nunca devemos dizer que sabemos tudo sempre a novos desafios e dificuldades.
 
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Utilius+tarde+quam+nunquam;Antes+tarde+do+que+nunca)](https://asasdev.com.br)
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Si+vis+pacem+para+bellum;Se+quer+paz+prepare-se+pra+guerra+)](https://asasdev.com.br)
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Luceat+lux+vestra;Resplandeça+a+vossa+luz)](https://asasdev.com.br)
  ##
-
  <div>
   <a href="https://github.com/asas-dev-web">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=asas-dev-web&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
