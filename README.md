@@ -1,7 +1,7 @@
 ## Seja bem vindo!
 
 
- ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Meu+nome+e+Alysson+Almeida+;Sou+Dev+Full+Stack)](https://asasdev.com.br)
+ ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Meu+nome+e+Alysson+Almeida+;Sou+Dev+Full+Stack+Sênior)](https://asasdev.com.br)
 
  Apaixonado por tecnologia desde o MSDOS, me desviei desse caminho por alguns anos pelas circunstâncias da vida. Mas essa paixão nunca acabou! O que me trouxe de volta à tecnologia.
 
