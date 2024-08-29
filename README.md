@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=&width=435&lines=Alysson+Almeida;Dev+Full+Stack)](https://git.io/typing-svg)
  <div>
   <a href="https://github.com/asas-dev-web">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asas-dev-web&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asas-dev-web&layout=compact&langs_count=16&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=asas-dev-web&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asas-dev-web&layout=compact&langs_count=16&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Asas-Dev" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
