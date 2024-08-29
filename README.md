@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- ![Snake animation]([https://github.com/asas-dev-web/asas-dev-web/blob/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/asas-dev-web/asas-dev-web/main/.github/workflows/main.yml))
+![Snake animation](https://github.com/asas-dev-web/asas-dev-web/blob/output/github-contribution-grid-snake.svg)
  
