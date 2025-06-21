@@ -59,6 +59,6 @@ Minhas Redes
 
 ![Snake animation](https://github.com/asas-dev-web/asas-dev-web/blob/output/github-contribution-grid-snake.svg)
 
-![Snake animation](https://github.com/asas-dev-web/asas-dev-web/blob/main/.github/workflows/cobrinha.yml)
+![Snake animation](https://raw.githubusercontent.com/asas-dev-web/asas-dev-web/refs/heads/main/.github/workflows/cobrinha.yml)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
