@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
- ## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Alysson+Almeida;I+am+from+Recife,+PE+Brasil;I+Dev+Full+Stack+Sênior;Be+Welcome!+:%29)](https://github.com/asas-dev-web) 
+ ## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Alysson+Almeida;I+am+from+Recife,+PE+-+Brasil;I+Dev+Full+Stack+Sênior;Be+Welcome!+:%29)](https://github.com/asas-dev-web) 
 
 
 Apaixonado por tecnologia desde os tempos do MS-DOS, minha trajetória tomou outros rumos ao longo da vida. Mas a paixão pela tecnologia sempre esteve presente, foi ela que me trouxe de volta ao caminho da inovação e do desenvolvimento.
