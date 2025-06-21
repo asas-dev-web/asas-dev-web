@@ -5,7 +5,7 @@
 
 Apaixonado por tecnologia desde os tempos do MS-DOS, minha trajetória tomou outros rumos ao longo da vida. Mas a paixão pela tecnologia sempre esteve presente — foi ela que me trouxe de volta ao caminho da inovação e do desenvolvimento.
 
- Eterno Estudante! pois nunca devemos dizer que sabemos tudo sempre a novos desafios e dificuldades.
+Eterno aprendiz, acredito que o conhecimento é um caminho sem fim. Sempre há novos desafios, ferramentas e soluções a explorar e é justamente essa constante evolução que torna a jornada tão fascinante.
 
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Utilius+tarde+quam+nunquam;Antes+tarde+do+que+nunca)](https://asasdev.com.br)
   
