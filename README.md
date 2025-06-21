@@ -3,7 +3,7 @@
  ## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Alysson+Almeida;I+am+from+Recife,+PE+Brasil;I+Dev+Full+Stack+Sênior;Be+Welcome!+:%29)](https://github.com/asas-dev-web) 
 
 
- Apaixonado por tecnologia desde o MSDOS, me desviei desse caminho por alguns anos pelas circunstâncias da vida. Mas essa paixão nunca acabou! O que me trouxe de volta à tecnologia.
+Apaixonado por tecnologia desde os tempos do MS-DOS, minha trajetória tomou outros rumos ao longo da vida. Mas a paixão pela tecnologia sempre esteve presente — foi ela que me trouxe de volta ao caminho da inovação e do desenvolvimento.
 
  Eterno Estudante! pois nunca devemos dizer que sabemos tudo sempre a novos desafios e dificuldades.
 
