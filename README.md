@@ -37,7 +37,7 @@ Minhas Habilidades
  <img align="center" alt="Google" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/googlecloud/googlecloud-original-wordmark.svg">
  <img align="center" alt="Azure" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/azure/azure-original-wordmark.svg">
  <img align="center" alt="AWS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
- <img align="center" alt="N8n" height="50" width="50" src="https://raw.githubusercontent.com/asas-dev-web/asas-dev-web/refs/heads/main/img/N8n.png">
+ <img align="center" alt="N8n" height="50" width="80" src="https://raw.githubusercontent.com/asas-dev-web/asas-dev-web/refs/heads/main/img/N8n.png">
  </div>
  <br>
 
