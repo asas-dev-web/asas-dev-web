@@ -7,10 +7,8 @@ Apaixonado por tecnologia desde os tempos do MS-DOS, minha trajetória tomou out
 
 Eterno aprendiz, acredito que o conhecimento é um caminho sem fim. Sempre há novos desafios, ferramentas e soluções a explorar, e é justamente essa constante evolução que torna a jornada tão fascinante.
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Utilius+tarde+quam+nunquam;Antes+tarde+do+que+nunca)](https://asasdev.com.br)
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Si+vis+pacem+para+bellum;Se+quer+paz+prepare-se+pra+guerra+)](https://asasdev.com.br)
-  
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Utilius+tarde+quam+nunquam;Antes+tarde+do+que+nunca)](https://asasdev.com.br)  
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Si+vis+pacem+para+bellum;Se+quer+paz+prepare-se+pra+guerra+)](https://asasdev.com.br)  
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Luceat+lux+vestra;Resplandeça+a+vossa+luz)](https://asasdev.com.br)
  
 <h2 tabindex="-1" class="heading-element" dir="auto">
