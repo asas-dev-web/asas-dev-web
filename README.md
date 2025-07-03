@@ -70,7 +70,7 @@ Minhas Redes
 
 <!-- ![Snake animation](https://raw.githubusercontent.com/asas-dev-web/asas-dev-web/output/github-contribution-grid-snake.svg)-->
 <img src="https://raw.githubusercontent.com/asas-dev-web/asas-dev-web/output/snake.svg" alt="Snake animation" />
-![Contador de visitas](https://asasdev.com.br/contador-de-visitas/contador-img.php)
+
 ![Contador de visitas](https://asasdev.com.br/contador-de-visitas/contador.png)
 
 <div align="center">
