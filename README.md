@@ -70,11 +70,11 @@ Minhas Redes
 
 <!-- ![Snake animation](https://raw.githubusercontent.com/asas-dev-web/asas-dev-web/output/github-contribution-grid-snake.svg)-->
 <img src="https://raw.githubusercontent.com/asas-dev-web/asas-dev-web/output/snake.svg" alt="Snake animation" />
-
+![Contador de visitas](https://asasdev.com.br/contador-de-visitas/contador-img.php)
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{asas-dev-web}/count.svg" /></p>
- ![Contador de visitas](https://asasdev.com.br/contador-de-visitas/contador-img.php)
+
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
